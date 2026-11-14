@@ -1,0 +1,5 @@
+9b9710d74f76b5e5ebdec719ddc90c3e422217f67f5248f1ee41b029800c6266  weights/Baseline/best.pt
+d32b4d40013ac98e59e305b0287f023cf09eb56b01dc65e13fc257e232ba8255  weights/A1/best.pt
+acdedfad5fc60bcfaed47ed2d23d4fc230e2b14f15ad6223bf7f7724cd55b9c0  weights/A2/best.pt
+d89d36ac7183132e4178542183c1a650ce5cf099b47be832d5dc37a6ecc7df23  weights/ECA/best.pt
+f1610cfd81f8cab94254b35f6b7da2981fa40f93ad1bd3dd1803c52e7f44753e  weights/pretrained/yolov5s_v5.0.pt
