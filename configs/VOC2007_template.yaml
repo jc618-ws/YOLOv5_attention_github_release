@@ -1,9 +1,0 @@
-# Edit path to the local YOLO-format VOC2007 directory before training/testing.
-path: /PATH/TO/VOC2007/YOLO
-train: images/train
-val: images/val
-test: images/test
-nc: 20
-names: [aeroplane, bicycle, bird, boat, bottle, bus, car, cat, chair, cow,
-        diningtable, dog, horse, motorbike, person, pottedplant, sheep, sofa,
-        train, tvmonitor]
